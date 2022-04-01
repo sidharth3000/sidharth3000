@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m a pre-final year student at IIITV pursuing Computer Science.
-- 💬 I do competitive programming using C++.
+- 💬 I like doing competitive programming and also a blockchain enthusiast.
 - ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
 
 
