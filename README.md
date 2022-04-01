@@ -27,15 +27,15 @@
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
  -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=sidharth3000&count_private=true&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcash09&theme=dark&background=0B3F52)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sidharth3000&theme=dark&background=0B3F52)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcash09)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharth3000)
 <br/>
 <br/>
 
 
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mcash09.mcash09)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sidharth3000.sidharth3000)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
