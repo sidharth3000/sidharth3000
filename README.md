@@ -1,6 +1,6 @@
-## Yolo! It's me Ashish👋
+## Heyo! It's me Sidharth👋
 
-<img src="https://giphy.com/gifs/crypto-ape-bored-ho0xXatV7b3Fo1ZRXN.gif" width="300" align='right'>
+<img src="https://media.giphy.com/media/ho0xXatV7b3Fo1ZRXN/giphy.gif" width="300" align='right'>
 <br/>
 
 - 🔭 I’m a pre-final year student at IIITV pursuing Computer Science.
