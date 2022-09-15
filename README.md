@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/ho0xXatV7b3Fo1ZRXN/giphy.gif" width="300" align='right'>
 <br/>
 
-- 🔭 I’m a final year student at IIITV pursuing Computer Science.
+- 🔭 I’m a final year student at IIIT Vadodara pursuing Computer Science.
 - 💬 I like doing competitive programming and also a blockchain enthusiast.
 - ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
 
